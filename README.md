@@ -1,4 +1,4 @@
-# Predicting if a borrower will default on his loan or not 
+# Loan Default Prediction Model 
 
 * The LendingClub dataset for this project was obtained from Kaggle.
 * LendingClub is a US peer-to-peer lending company and the dataset contains historical data on loans given out in the past. 
